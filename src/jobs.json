@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "4598",
+      "title": "React Dev RRTR",
+      "type": "Full-time",
+      "location": "Kansas City",
+      "description": "thisw is a test",
+      "salary": "Under $50K",
+      "company": {
+        "name": "KC Pro Assembly",
+        "description": "It is awesome",
+        "contactEmail": "david@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
     }
   ]
 }

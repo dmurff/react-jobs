@@ -39,7 +39,6 @@ const JobListings = ({ isHome = false }) => {
             ))}
           </div>
         )}
-        ;
       </div>
     </section>
   );
